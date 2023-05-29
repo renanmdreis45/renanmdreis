@@ -1,10 +1,11 @@
 # Hi, I'm Renan Martins 👋
-<div align="center">
-<p>
-Full Stack Developer specialized in Javascript, Typescript and React on Front-End, but i develop with other technologies in Back-End too. I participated in the development of 2 projects and I have some personal projects.
-
+<div align="left">
+<p align="left">
+Full Stack Developer with 1 year of experience specialized in Javascript, Typescript and React on Front-End, but i develop with other technologies in Back-End too. I participated in the development of 2 projects and I have some personal projects.
+<br>
+<br>
 🦾 My specialties/main stack:
- <ul>
+ <ul align="left">
   <li> Javascript </li> 
   <li> Typescript </li>
   <li> React </li>
@@ -15,26 +16,33 @@ Full Stack Developer specialized in Javascript, Typescript and React on Front-En
   <li> Typeorm </li>
   <li> Oracle </li>
  </ul>
-
-
+<br>
+<br>
 🗣 Languages:
-- Javascript
-- Typescript
-
-
+ <ul>
+  <li> Javascript </li>
+  <li> Typescript </li>
+ </ul>
+<br>
+<br>
 🎯 Goals:
-- Specialize in front-end development with javascript/typescript
-- Work with mobile development
-- Helping people with my experiences and learnings
-
-
-👤 About me: 
+<ul>
+ <li> Specialize in front-end development with javascript/typescript </li>
+ <li> Work with mobile development </li>
+ <li> Helping people with my experiences and learnings </li>
+</ul>
+<br>
+<br>
+👤 About me: <br>
 My name is Renan, I'm from Teresina-PI / Brazil, I develop front-end applications and I'm studying computer engineering at the Federal University of Ceará
-
+<br>
+<br>
 I am a web developer, where I work developing features and softwares mainly with Typescript, Javascript, React and Next in Front-End and with Node, Express, TypeORM e Oracle DB in Back-End.
-
+<br>
+<br>
 I'm currently developing some personal projects and systems with Redux
-
+<br>
+<br>
 ◾️Github: 
 https://github.com/renanmdreis45
  </p>
