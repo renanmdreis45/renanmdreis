@@ -1,8 +1,41 @@
 # Hi, I'm Renan Martins 👋
 <div align="center">
 <p>
-📖 Studying: Redux
-</p>
+Full Stack Developer specialized in Javascript, Typescript and React on Front-End, but i develop with other technologies in Back-End too. I participated in the development of 2 projects and I have some personal projects.
+
+🦾 My specialties/main stack:
+- Javascript
+- Typescript
+- React
+- Next
+- Redux
+- Node 
+- Express
+- Typeorm
+- Oracle database
+
+
+🗣 Languages:
+- Javascript
+- Typescript
+
+
+🎯 Goals:
+- Specialize in front-end development with javascript/typescript
+- Work with mobile development
+- Helping people with my experiences and learnings
+
+
+👤 About me: 
+My name is Renan, I'm from Teresina-PI / Brazil, I develop front-end applications and I'm studying computer engineering at the Federal University of Ceará
+
+I am a web developer, where I work developing features and softwares mainly with Typescript, Javascript, React and Next in Front-End and with Node, Express, TypeORM e Oracle DB in Back-End.
+
+I'm currently developing some personal projects and systems with Redux
+
+◾️Github: 
+https://github.com/renanmdreis45
+ </p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmdreis45&show_icons=true&theme=radical" style="max-width: 100%;"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmdreis45&layout=compact&hide=c,makefile" style="max-width: 100%;"/>
 </div>
