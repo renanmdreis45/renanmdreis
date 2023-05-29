@@ -4,15 +4,17 @@
 Full Stack Developer specialized in Javascript, Typescript and React on Front-End, but i develop with other technologies in Back-End too. I participated in the development of 2 projects and I have some personal projects.
 
 🦾 My specialties/main stack:
-- Javascript
-- Typescript
-- React
-- Next
-- Redux
-- Node 
-- Express
-- Typeorm
-- Oracle database
+ <ul>
+  <li> Javascript </li> 
+  <li> Typescript </li>
+  <li> React </li>
+  <li> Next </li>
+  <li> Redux </li>
+  <li> Node </li> 
+  <li> Express </li>
+  <li> Typeorm </li>
+  <li> Oracle </li>
+ </ul>
 
 
 🗣 Languages:
