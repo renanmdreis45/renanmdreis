@@ -41,11 +41,7 @@ I am a web developer, where I work developing features and softwares mainly with
 <br>
 <br>
 I'm currently developing some personal projects and systems with Redux
-<br>
-<br>
-◾️Github: 
-https://github.com/renanmdreis45
- </p>
+</p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmdreis45&show_icons=true&theme=radical" style="max-width: 100%;"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmdreis45&layout=compact&hide=c,makefile" style="max-width: 100%;"/>
 </div>
