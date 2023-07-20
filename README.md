@@ -9,6 +9,8 @@ Full Stack Developer with 1 year of experience specialized in Javascript, Typesc
   <li> Javascript </li> 
   <li> Typescript </li>
   <li> React </li>
+  <li> Flutter </li>
+  <li> Dart </li>
   <li> Next </li>
   <li> Redux </li>
   <li> Node </li> 
