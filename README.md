@@ -1,49 +1,22 @@
 # Hi, I'm Renan Martins 👋
 <div align="left">
 <p align="left">
-Full Stack Developer with 1 year of experience specialized in Javascript, Typescript and React on Front-End, but i develop with other technologies in Back-End too. I participated in the development of 2 projects and I have some personal projects.
+Mobile and frontend developer with experience in mobile applications with Flutter / Dart and web systems with React, Typescript and JavaScript. I had a crucial role in developing good solutions and good quality code in projects using Flutter and React in the frontend and Node.js in the backend.
 <br>
 <br>
-🦾 My specialties/main stack:
+🦾 Skills:
  <ul align="left">
-  <li> Javascript </li> 
-  <li> Typescript </li>
-  <li> React </li>
-  <li> Flutter </li>
-  <li> Dart </li>
-  <li> Next </li>
-  <li> Redux </li>
-  <li> Node </li> 
-  <li> Express </li>
-  <li> Typeorm </li>
-  <li> Oracle </li>
+  <li> Typescript | JavaScript | Dart </li>
+  <li> Flutter </li> 
+  <li> React | Next </li>
+  <li> Node.js | Express | TypeORM </li>
+  <li> Firebase | AWS | Oracle | PostgreSQL | MongoDB | Docker | PrismaORM </li> 
  </ul>
 <br>
 <br>
-🗣 Languages:
- <ul>
-  <li> Javascript </li>
-  <li> Typescript </li>
- </ul>
-<br>
-<br>
-🎯 Goals:
-<ul>
- <li> Specialize in front-end development with javascript/typescript </li>
- <li> Work with mobile development </li>
- <li> Helping people with my experiences and learnings </li>
-</ul>
-<br>
-<br>
-👤 About me: <br>
-My name is Renan, I'm from Teresina-PI / Brazil, I develop front-end applications and I'm studying computer engineering at the Federal University of Ceará
-<br>
-<br>
-I am a web developer, where I work developing features and softwares mainly with Typescript, Javascript, React and Next in Front-End and with Node, Express, TypeORM e Oracle DB in Back-End.
-<br>
-<br>
-I'm currently developing some personal projects and systems with Redux
+I'm always open to new challenges and I'm excited to bring my experiences and skills to a position as a Mobile Developer or Software Engineer with Flutter.
 </p>
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmdreis45&show_icons=true&theme=radical" style="max-width: 100%;"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmdreis45&layout=compact&hide=c,makefile" style="max-width: 100%;"/>
 </div>
