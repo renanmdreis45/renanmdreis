@@ -1,20 +1,21 @@
 # Hi, I'm Renan Martins 👋
 <div align="left">
 <p align="left">
-Mobile and frontend developer with experience in mobile applications with Flutter / Dart and web systems with React, Typescript and JavaScript. I had a crucial role in developing good solutions and good quality code in projects using Flutter and React in the frontend and Node.js in the backend.
+Mobile Engineer with a passion for creating innovative products that are easy to use. With experience in mobile applications with Flutter / Dart and web systems with React, Typescript and JavaScript. I had a crucial role in developing solutions with good UI/UX design and performance, good quality and code organization and in projects using Flutter and React in the frontend and Node.js to develop rest apis in the backend.
 <br>
 <br>
 🦾 Skills:
  <ul align="left">
-  <li> Typescript | JavaScript | Dart </li>
-  <li> Flutter </li> 
+  <li>  Dart | Typescript | JavaScript </li>
+  <li>  Flutter | React Native | Bloc </li> 
   <li> React | Next </li>
   <li> Node.js | Express | TypeORM </li>
-  <li> Firebase | AWS | Oracle | PostgreSQL | MongoDB | Docker | PrismaORM </li> 
+  <li>  Firebase | AWS | Oracle | PostgreSQL | MongoDB | Docker | PrismaORM </li>
+  <li> Unit test | Widget test </li>
  </ul>
 <br>
 <br>
-I'm always open to new challenges and I'm excited to bring my experiences and skills to a position as a Mobile Developer or Software Engineer with Flutter.
+I'm always open to new challenges and I'm excited to bring my experiences and skills to a position as a Mobile Engineer.
 </p>
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmdreis45&show_icons=true&theme=radical" style="max-width: 100%;"/>
